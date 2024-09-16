@@ -1,15 +1,15 @@
-body{
-    background-color: lavender;
+body {
+    background-color: rgb(230, 230, 250);
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
-    color: lawngreen;
+    color: #00FF00;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 p {
-    color: white;
+    color: #ffffff;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
