@@ -16,9 +16,3 @@ To work with this repository, ensure you have the following tools installed:
 
 - [Git](https://git-scm.com/)
 - A text editor like [VSCode](https://code.visualstudio.com/) or [Sublime Text](https://www.sublimetext.com/)
-
-### How to Use This Repository
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Rayet01/simple.activity.git
